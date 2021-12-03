@@ -5,7 +5,17 @@
       "ProjectGuid": "357f584c-d03d-4ca7-91ba-96eb9521aae4",
       "DisplayName": "Week2",
       "ColorIndex": 0
+    },
+    "8c10bb62-77ae-42fa-a38a-1c4ff5a538be": {
+      "ProjectGuid": "8c10bb62-77ae-42fa-a38a-1c4ff5a538be",
+      "DisplayName": "CL1",
+      "ColorIndex": 1
+    },
+    "ec00a3df-2570-4057-bb39-684598b2f03c": {
+      "ProjectGuid": "ec00a3df-2570-4057-bb39-684598b2f03c",
+      "DisplayName": "CA1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

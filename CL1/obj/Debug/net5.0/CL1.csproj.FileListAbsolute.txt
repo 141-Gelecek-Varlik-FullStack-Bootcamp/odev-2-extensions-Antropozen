@@ -1,0 +1,11 @@
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\bin\Debug\net5.0\CL1.deps.json
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\bin\Debug\net5.0\CL1.dll
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\bin\Debug\net5.0\ref\CL1.dll
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\bin\Debug\net5.0\CL1.pdb
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\obj\Debug\net5.0\CL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\obj\Debug\net5.0\CL1.AssemblyInfoInputs.cache
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\obj\Debug\net5.0\CL1.AssemblyInfo.cs
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\obj\Debug\net5.0\CL1.csproj.CoreCompileInputs.cache
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\obj\Debug\net5.0\CL1.dll
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\obj\Debug\net5.0\ref\CL1.dll
+C:\Users\enesg\Desktop\Week2\Week2Sln\CL1\obj\Debug\net5.0\CL1.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CA1/1.0.0": {
+        "dependencies": {
+          "CL1": "1.0.0"
+        },
+        "runtime": {
+          "CA1.dll": {}
+        }
+      },
+      "CL1/1.0.0": {
+        "runtime": {
+          "CL1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CL1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
