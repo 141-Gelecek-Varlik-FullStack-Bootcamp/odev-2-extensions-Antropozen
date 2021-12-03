@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Week2.Filter;
 using Week2.Models;
 
 namespace Week2.Controllers
@@ -17,6 +18,9 @@ namespace Week2.Controllers
         {
             _logger = logger;
         }
+
+        [HttpGet]
+        [LoginFilter("Admin")]
 
         public IActionResult Index()
         {
