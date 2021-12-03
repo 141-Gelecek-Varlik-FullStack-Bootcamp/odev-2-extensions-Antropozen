@@ -15,7 +15,12 @@
       "ProjectGuid": "ec00a3df-2570-4057-bb39-684598b2f03c",
       "DisplayName": "CA1",
       "ColorIndex": 2
+    },
+    "9c3ccb00-4675-4089-9f73-bd334e8dfdfd": {
+      "ProjectGuid": "9c3ccb00-4675-4089-9f73-bd334e8dfdfd",
+      "DisplayName": "Repo",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
